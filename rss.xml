@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[La Nova Tile/DFW]]></title>
         <description><![CDATA[La Nova Tile/DFW]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/la-nova-tile-dfw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 22:30:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Jan 2016 22:40:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/la-nova-tile-dfw/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e350129e-a54f-4fc1-ab51-0dee101b3430.JPG">]]></description>
+            <link>https://thegrid.ai/la-nova-tile-dfw/305c2d4e-e412-499d-9ccf-93dd1f146cca/index.html</link>
+            <guid isPermaLink="false">305c2d4e-e412-499d-9ccf-93dd1f146cca</guid>
+            <pubDate>Wed, 27 Jan 2016 22:40:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4083b21b-0d80-43ad-9aa0-74e3b3517e47.jpg">]]></description>
-            <link>undefined752a1b64-f80e-420e-906b-854bdb4868b9/index.html</link>
+            <link>https://thegrid.ai/la-nova-tile-dfw/752a1b64-f80e-420e-906b-854bdb4868b9/index.html</link>
             <guid isPermaLink="false">752a1b64-f80e-420e-906b-854bdb4868b9</guid>
             <pubDate>Wed, 27 Jan 2016 22:29:05 GMT</pubDate>
         </item>
