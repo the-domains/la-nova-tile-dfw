@@ -1,28 +1,40 @@
-name: La Nova Tile/DFW
-favicon: null
-layout_spectrum: 0.770006304141134
-typography_spectrum: 0.38827145751565695
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.8876257366500795
-  lightness: 0.5705723848659545
-  saturation: 0.30780641781166196
-  rhythmicContrast: 0.5938459732569754
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
+color:
+  saturation: 0.05376344
+  brandStrength: 1
+  lightness: 1
+  brandColors:
+    - '#BCB57F'
+    - '#534B30'
+    - '#91875B'
+    - '#FCF9BF'
+    - '#B5281C'
+  rhythmicContrast: 1
+typography_spectrum: 0.344086
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 1
+favicon: null
+name: La Nova Tile/DFW
